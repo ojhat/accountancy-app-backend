@@ -76,7 +76,7 @@ declare global {
       currentValue: number;
       manufacturer: string;
       series: string;
-      inurance: "yes" | "no";
+      insurance: "yes" | "no";
     };
   }
 }
